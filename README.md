@@ -28,3 +28,6 @@ classic `Hello, World!` example in C++ ﹤HTML﹥:
     ﹤／body﹥
 ﹤／html﹥
 ```
+
+Want to contribute but not sure where to start? Check out
+[the issues](https://github.com/jfbastien/cpp-html/issues)!
