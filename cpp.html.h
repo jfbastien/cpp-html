@@ -92,5 +92,6 @@ struct unordered_list {
 #define ﹤／ul﹥ };
 #define ﹤li﹥(...) , list_item{#__VA_ARGS__
 #define ﹤／li﹥ }
-
+#define ﹤__(...) printf(""
+#define ﹤／__﹥ );
 #endif

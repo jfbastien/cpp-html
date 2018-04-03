@@ -4,6 +4,7 @@
     ﹤head﹥
     ﹤／head﹥
     ﹤body﹥
+        ﹤__(This is a comment)﹤／__﹥
         ﹤p﹥(Hello, World!)﹤／p﹥
         ﹤ol﹥
             ﹤li﹥(This is an item in an ordered list!)﹤／li﹥
